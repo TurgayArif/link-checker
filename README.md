@@ -50,6 +50,5 @@ mvn test
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-```
 
-Please replace the repository URL and other details with the actual ones.
+
